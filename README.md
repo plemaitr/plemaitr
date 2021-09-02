@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @plemaitr
 - 👀 I’m interested in python
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently trying to learn differents things ...
 
 <!---
 plemaitr/plemaitr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
